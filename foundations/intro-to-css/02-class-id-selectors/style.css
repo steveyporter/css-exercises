@@ -3,7 +3,7 @@
     font-family: verdana, sans-serif;
 }
 
-.second_element{
+#second_element{
     font-size: 32px;
     color: rgb(65, 65, 165);
 }
@@ -12,7 +12,7 @@
     font-size: 24px;
 }
 
-.fourth_element{
+#fourth_element{
     font-size: 24px;
     font-weight: bold;
     background-color: rgb(151, 187, 151);
